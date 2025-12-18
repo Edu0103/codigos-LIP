@@ -128,3 +128,11 @@ O projeto utiliza um **Arduino** com **Multi Function Shield**.
 3.  **Sistema de Segurança:** Se for detectado movimento, o sistema alerta (simulado pelo LED 1).
 
 ---
+
+
+## Imagens e Vídeo
+
+[Link do Vídeo](https://drive.google.com/file/d/1E-bSMBVvJvt-SO6KOar5wJ5TelV8G4O9/view?usp=sharing)
+
+![Foto Montagem](/codigos-LIP/foto-montagem.png)
+![Foto Saida](/codigos-LIP/foto-saida.png)
